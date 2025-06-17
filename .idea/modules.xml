@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Elevator/Elevator.iml" filepath="$PROJECT_DIR$/Elevator/Elevator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LLD_Pattern.iml" filepath="$PROJECT_DIR$/.idea/LLD_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parking Lot/Parking Lot.iml" filepath="$PROJECT_DIR$/Parking Lot/Parking Lot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TicTacToeLLD/TicTacToeLLD.iml" filepath="$PROJECT_DIR$/TicTacToeLLD/TicTacToeLLD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
     </modules>
   </component>
 </project>
