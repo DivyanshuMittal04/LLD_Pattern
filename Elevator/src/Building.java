@@ -1,7 +1,7 @@
 import java.util.List;
 
 public class Building {
-    List<Floor> floorList;
+    List<Floor> floors;
 
     Building(List<Floor> floors){
         this.floorList = floors;
